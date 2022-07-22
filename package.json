@@ -1,0 +1,27 @@
+{
+  "name": "ethan4116-blog",
+  "version": "1.0.0",
+  "description": "some theme js css font",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzy13755126023/tzy1997-blog.git"
+  },
+  "keywords": [
+    "butterfly",
+    "hexo",
+    "tzy1997"
+  ],
+  "author": "tzy1997",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tzy13755126023/tzy1997-blog/issues"
+  },
+  "homepage": "https://github.com/tzy13755126023/tzy1997-blog#readme"
+}

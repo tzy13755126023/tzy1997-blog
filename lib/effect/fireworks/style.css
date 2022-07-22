@@ -328,12 +328,6 @@ body {
     transition-timing-function: ease-out;
     transition-duration: 0.4s;
 }
-body, html {
-    cursor: url("../../baidu/left_ptr.png"), default !important
-}
-svg:hover {
-    cursor: url("../../baidu/2.ico"), default !important
-}
 .help-modal.active .help-modal__dialog {
     opacity: 1;
     transform: scale(1, 1);
