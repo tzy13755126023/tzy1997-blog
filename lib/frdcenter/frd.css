@@ -1,0 +1,42 @@
+.cf-article {
+    background: #1d1e22 !important;
+    border: 1px solid #42444a !important;
+    box-shadow: 0 8px 16px -4px #2c2d300c !important;
+}
+
+#cf-change,
+#cf-more,
+#cf-state,
+.cf-article-author,
+.cf-article-floor,
+.cf-article:hover .cf-article-floor,
+.cf-article a.cf-article-title,
+.cf-time-created,
+.cf-time-updated {
+    color: #F7F7FA !important;
+}
+
+.cf-article-title {
+    -webkit-line-clamp: 2 !important;
+}
+
+#article-container .cf-article .cf-article-title:hover,
+#cf-footer a:hover,
+.cf-setting-btn:hover {
+    color: #6f42c1 !important;
+    text-decoration: none !important;
+    cursor: pointer;
+}
+
+.cf-article-author {
+    background-color: #9999992b !important;
+}
+
+.cf-article-author:hover {
+    background: #6f42c1 !important;
+}
+
+#cf-footer a,
+.cf-setting-btn {
+    color: #fff !important;
+}
