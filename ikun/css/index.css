@@ -1,4 +1,4 @@
-﻿audio::-webkit-media-controls {
+audio::-webkit-media-controls {
     overflow: hidden !important
 }
 
@@ -28,14 +28,14 @@ audio::-webkit-media-controls-enclosure {
 
 #main .top .bg1 {
     height: 70px;
-    background-image: url(https://npm.elemecdn.com/ethan4116-blog/ikun/img/bg01.png);
+    background-image: url(../img/bg01.png);
     background-repeat: no-repeat, repeat;
     background-size: 100% 100%
 }
 
 #main .top .bg2 {
     height: 80px;
-    background-image: url(https://npm.elemecdn.com/ethan4116-blog/ikun/img/bg02.png);
+    background-image: url(../img/bg02.png);
     background-repeat: no-repeat, repeat;
     background-size: 100% 100%
 }
@@ -49,7 +49,7 @@ audio::-webkit-media-controls-enclosure {
     left: 10px;
     right: 10px;
     margin: auto;
-    background-image: url(https://npm.elemecdn.com/ethan4116-blog/ikun/img/ctrl.png);
+    background-image: url(../img/ctrl.png);
     background-repeat: no-repeat, repeat;
     background-clip: border-box;
     background-size: 100% 100%;
@@ -114,7 +114,8 @@ audio::-webkit-media-controls-enclosure {
 }
 
 #main .ctrl ul.jj li.sange {
- width: 46%;
+    //width: 90px;
+	width: 46%;
 }
 
 #main .ctrl .help {
